@@ -1,4 +1,10 @@
-public void test()
+// Hello World! program
+namespace HelloWorld
 {
-    System.Console.WriteLine("Hello!");
+    class Hello {         
+        static void Main(string[] args)
+        {
+            System.Console.WriteLine("Hello World!");
+        }
+    }
 }
