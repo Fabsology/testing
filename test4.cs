@@ -2,7 +2,7 @@
 namespace HelloWorld
 {
     public static class Hello {         
-        static void Hay()
+        public static void Hay()
         {
             System.Console.WriteLine("Hello World!");
         }
